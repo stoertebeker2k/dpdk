@@ -1,2 +1,2 @@
 # dpdk
-scripts for master thesis
+various scripts for my master thesis
